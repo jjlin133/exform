@@ -25,7 +25,7 @@ LINE_CHANNEL_ACCESS_TOKEN = '你的 CHANNEL_ACCESS_TOKEN'
 LINE_CHANNEL_SECRET = '你的 CHANNEL_SECRET'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = FALSE
+DEBUG = False
 
 ALLOWED_HOSTS = ['*']
 
