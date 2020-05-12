@@ -19,10 +19,12 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/2.0/howto/deployment/checklist/
 
-# SECURITY WARNING: keep the secret key used in production secret!
+###### 2020.0512 -- jjlin133
+###### LINE Bot: Channel name : dbform  
+#  SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = '-l((d#@4%8g2b*%7o4unv0nuw88v*2&=7yyc#8tjtf5vwcqea-'
-LINE_CHANNEL_ACCESS_TOKEN = '你的 CHANNEL_ACCESS_TOKEN'
-LINE_CHANNEL_SECRET = '你的 CHANNEL_SECRET'
+LINE_CHANNEL_ACCESS_TOKEN = 'Rx+WOkHrAIsyDgHoE0lQPywKRCicple9CzJ6ON4pteG8xuXkKS+EtHE+2UANS35rfGFvfQM8L8/6RqCx/sTORTlf2uAn0h+c5hW1UkrDqRXQhVqXiMtWDIMweL1kH1b9TnmAUmcC7BvxDMfLBcGHZgdB04t89/1O/w1cDnyilFU='
+LINE_CHANNEL_SECRET = '7a991b60a1de2f6dd3dc3900910372b2'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
